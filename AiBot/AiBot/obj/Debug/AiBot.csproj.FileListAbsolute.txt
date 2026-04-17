@@ -1,0 +1,11 @@
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\bin\Debug\AiBot.exe.config
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\bin\Debug\AiBot.exe
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\bin\Debug\AiBot.pdb
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\obj\Debug\AiBot.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\obj\Debug\AiBot.IAChat.resources
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\obj\Debug\AiBot.Properties.Resources.resources
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\obj\Debug\AiBot.csproj.GenerateResource.cache
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\obj\Debug\AiBot.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\obj\Debug\AiBot.exe
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\obj\Debug\AiBot.pdb
+C:\Users\Alunos\Desktop\Vs2022 Max 34DS\AiBot\AiBot\obj\Debug\AiBot.Form1.resources
